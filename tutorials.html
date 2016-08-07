@@ -1,0 +1,11 @@
+---
+layout: default
+title: Tutorials
+permalink: /tutorial/
+redirect_from: "/tutorials/"
+---
+
+{% include top-section.html %}
+
+{% assign categories = "event,avr,arduino,auto,imageprocessing,kraig,mechanical,opencv,other" | split: ',' %}
+{% include tutorial-list.html %}

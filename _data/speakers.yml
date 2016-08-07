@@ -1,0 +1,82 @@
+-
+  id: 1
+  name: "Abhinav"
+  surname: "Jain"
+  title: "Head"
+  thumbnailUrl: abhinav.jpg
+  team: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/abhinav.jain2"}
+    - {name: "email", link: "mailto:abhinav.jain@robotix.in"}
+-
+  id: 2
+  name: "Aditya"
+  surname: "Narayan"
+  title: "Head"
+  thumbnailUrl: aditya-narayan.jpg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/adityabhagat95"}
+    - {name: "site", link: "http:///narayanaditya.in"}
+    - {name: "email", link: "mailto:aditya.narayan@robotix.in"}
+-
+  id: 3
+  name: "Nikhil Angad"
+  surname: "Bakshi"
+  title: "Head"
+  thumbnailUrl: bakshi.jpg
+  social:
+    - {name: "email", link: "mailto:nikhil.angad@robotix.in"}
+-
+  id: 4
+  name: "Anchit"
+  surname: "Navelkar"
+  thumbnailUrl: anchit-navelkar.jpg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/anchitn?fref=ts"}
+    - {name: "email", link: "mailto:anchitn@robotix.in"}
+-
+  id: 5
+  name: "Aditya"
+  surname: "Agarwal"
+  thumbnailUrl: aditya-agarwal.jpg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/aditya259"}
+-
+  id: 6
+  name: "Shushman"
+  surname: "Choudhury"
+  thumbnailUrl: shushman-choudhury.jpg
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/#!/shushman.choudhury"}
+-
+  id: 7
+  name: "Kumar Krishna"
+  surname: "Agarwal"
+  thumbnailUrl: kk-agarwal.jpg
+-
+  id: 8
+  name: "Ayush"
+  surname: "Pandey"
+  thumbnailUrl: ayush-pandey.jpg
+  social:
+    - {name: "site", link: "http://ayushpandey.tk"}
+-
+  id: 9
+  name: "Ashish"
+  surname: "Daga"
+  thumbnailUrl: ashish-daga.jpg
+-
+  id: 10
+  name: "Vraj"
+  surname: "Parikh"
+  thumbnailUrl: vraj.jpg
+-
+  id: 11
+  name: "Siddharth"
+  surname: "Jha"
+  thumbnailUrl: siddharth.jpg
+-
+  id: 12
+  name: "Soumyadeep"
+  surname: "Mukherjee"
+  thumbnailUrl: soumyadeep_mukherjee.jpg

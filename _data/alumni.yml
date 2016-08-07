@@ -1,0 +1,708 @@
+- title: "2016"
+  team:
+    -
+      id: 0
+      name: "Yogesh"
+      surname: "Poddar"
+      thumbnailUrl: yogesh_poddar.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/yogesh.poddar.77"}
+        - {name: "email", link: "mailto:yogesh@robotix.in"}
+
+    -
+      id: 1
+      name: "Soumyadeep"
+      surname: "Mukherjee"
+      thumbnailUrl: soumyadeep_mukherjee.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/soumyadeep.mukherjee17"}
+        - {name: "email", link: "mailto:soumyadeep@robotix.in"}
+    -
+      id: 3
+      name: "Rahul"
+      surname: "Jhawar"
+      thumbnailUrl: rahul_jhawar.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/rahuljhawar.iitkgp"}
+        - {name: "email", link: "mailto:rahuljhawar@robotix.in"}
+    -
+      id: 4
+      name: "Payal"
+      surname: "Priyadarshini"
+      thumbnailUrl: payal_priyadarshini.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/payal.priyadarshini.3"}
+        - {name: "email", link: "mailto:payal@robotix.in"}
+    -
+      id: 8
+      name: "Deepak"
+      surname: "Agarwal"
+      thumbnailUrl: deepak_agarwal.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/Deepak0306"}
+        - {name: "email", link: "mailto:deepak@robotix.in"}
+    -
+      id: 9
+      name: "Anushka"
+      surname: "Gupta"
+      thumbnailUrl: anushka_gupta.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/anushkalakshmi"}
+        - {name: "email", link: "mailto:anushka@robotix.in"}
+    -
+      id: 11
+      name: "Ashutosh"
+      surname: "Baheti"
+      thumbnailUrl: ashutosh_baheti.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/ashutosh.baheti.33?fref=ts"}
+        - {name: "email", link: "mailto:ashutosh@robotix.in"}
+    -
+      id: 12
+      name: "Ayush"
+      surname: "Garg"
+      thumbnailUrl: ayush_garg.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/gargayush792?fref=ts"}
+        - {name: "email", link: "mailto:ayush.garg@robotix.in"}
+- title: "2015"
+  team:
+    -
+      id: 68
+      name: "Aditya"
+      surname: "Agarwal"
+      thumbnailUrl: aditya_agarwal.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/aditya259"}
+    -
+      id: 69
+      name: "Ayush"
+      surname: "Goel"
+      thumbnailUrl: ayush_goel.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/akshat.goyal07"}
+    -
+      id: 70
+      name: "Githin"
+      surname: "John"
+      thumbnailUrl: githin_john.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/githin.john.1"}
+    -
+      id: 71
+      name: "Ishan"
+      surname: "Garg"
+      thumbnailUrl: ishan_garg.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/nahsi"}
+    -
+      id: 72
+      name: "Kalyani"
+      surname: "Nimbalkar"
+      thumbnailUrl: kalyani_nimbalkar.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kalyani.nimbalkar"}
+    -
+      id: 73
+      name: "Monika"
+      surname: "Pani"
+      thumbnailUrl: monika_pani.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/monika.pani"}
+    -
+      id: 74
+      name: "Mrinal"
+      surname: "Mohit"
+      thumbnailUrl: mrinal_mohit.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/wowitsmrinal"}
+    -
+      id: 75
+      name: "Prateek"
+      surname: "Rastogi"
+      thumbnailUrl: prateek_rastogi.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/baegoo"}
+    -
+      id: 76
+      name: "Rahul"
+      surname: "Koshal"
+      thumbnailUrl: rahul_koshal.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/rahul.koshal"}
+    -
+      id: 77
+      name: "Shushman"
+      surname: "Choudhury"
+      thumbnailUrl: shushman_choudhury.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/#!/shushman.choudhury"}
+
+- title: "2014"
+  team:
+    -
+      id: 0
+      name: "Avinash"
+      surname: "Ruchandani"
+      thumbnailUrl: avinash.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/avinash.ruchandani?fref=ts"}
+    -
+      id: 1
+      name: "Apurva"
+      surname: "Jha"
+      thumbnailUrl: apurva.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/apurva.jha.5"}
+    -
+      id: 2
+      name: "Mallikarjun"
+      surname: "Karra"
+      thumbnailUrl: mallikarjun.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/mallikarjun.karra"}
+    -
+      id: 3
+      name: "Muddit"
+      surname: "Poonia"
+      thumbnailUrl: muddit.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/muddit.poonia"}
+    -
+      id: 4
+      name: "Nilanjana"
+      surname: "Bhattacharya"
+      thumbnailUrl: nilanjana.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/nilanjana.bhattacharya"}
+    -
+      id: 5
+      name: "Puja"
+      surname: "Gorai"
+      thumbnailUrl: puja.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/puja.gorai"}
+    -
+      id: 6
+      name: "Samarth"
+      surname: "Mahajan"
+      thumbnailUrl: samarth.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/samarth.mahajan"}
+    -
+      id: 7
+      name: "Ayush"
+      surname: "Upadhyay"
+      thumbnailUrl: uppi.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/theDroidMaster"}
+- title: "2013"
+  team:
+    -
+      id: 8
+      name: "Aiyush"
+      surname: "Suhasaria"
+      thumbnailUrl: aiyush.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/aiyush.suhasaria"}
+    -
+      id: 9
+      name: "Akshat"
+      surname: "Verma"
+      thumbnailUrl: akshat.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/akshatverma8"}
+    -
+      id: 10
+      name: "Pratyush"
+      surname: "Pande"
+      thumbnailUrl: pratyush.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/pratyush.pande"}
+    -
+      id: 11
+      name: "Rahul"
+      surname: "Das"
+      thumbnailUrl: rahul.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/rahul.das.fb"}
+    -
+      id: 12
+      name: "Sanjoy"
+      surname: "Das"
+      thumbnailUrl: sanjoy.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/scombinator"}
+    -
+      id: 13
+      name: "Shruti"
+      surname: "Poddar"
+      thumbnailUrl: spoddar.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/poddar.shruti"}
+    -
+      id: 14
+      name: "Shruti"
+      surname: "Khatri"
+      thumbnailUrl: shruti.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/shrutikhatri01"}
+    -
+      id: 15
+      name: "Suhrud"
+      surname: "Karandikar"
+      thumbnailUrl: suhrud.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/suhrudkarandikar"}
+- title: "2012"
+  team:
+    -
+      id: 16
+      name: "Amal"
+      surname: "Sinha"
+      thumbnailUrl: amal.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/amaleshwarsinha"}
+    -
+      id: 17
+      name: "Girish"
+      surname: "Nivarti"
+      thumbnailUrl: girish.jpg
+      team: true
+    -
+      id: 18
+      name: "Mahtab"
+      surname: "Soin"
+      thumbnailUrl: mahtab.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/mahtabsoin"}
+    -
+      id: 19
+      name: "Palkush Rai"
+      surname: "Chawla"
+      thumbnailUrl: palkush.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/palkush"}
+    -
+      id: 20
+      name: "Parth"
+      surname: "Govil"
+      thumbnailUrl: parth.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/parth.govil.9"}
+    -
+      id: 21
+      name: "Samar Rehman"
+      surname: "Patel"
+      thumbnailUrl: samar.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/samarrp"}
+    -
+      id: 22
+      name: "Saurya"
+      surname: "Mishra"
+      thumbnailUrl: saurya.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/sauryamishra"}
+- title: "2011"
+  team:
+    -
+      id: 23
+      name: "Aditi"
+      surname: "Gupta"
+      thumbnailUrl: aditi_g.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/adtigupta"}
+    -
+      id: 24
+      name: "Gaurav"
+      surname: "Srivastava"
+      thumbnailUrl: gaurav_s.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/iamgauravsrivastava"}
+    -
+      id: 25
+      name: "Kumar"
+      surname: "Utsav"
+      thumbnailUrl: kumar_u.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kumar.utsav"}
+    -
+      id: 26
+      name: "Rasna"
+      surname: "Goenka"
+      thumbnailUrl: rasna_g.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/rasna.goenka"}
+    -
+      id: 27
+      name: "Rohit"
+      surname: "Kawathekar"
+      thumbnailUrl: rohit_k.jpg
+      team: true
+    -
+      id: 28
+      name: "Sanjiban"
+      surname: "Choudhury"
+      thumbnailUrl: sanjiban_c.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/sanjiban.choudhury.31"}
+    -
+      id: 29
+      name: "Swapnil"
+      surname: "Bagmar"
+      thumbnailUrl: swapnil_b.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/swapnil.bagmar"}
+- title: "2010"
+  team:
+    -
+      id: 30
+      name: "Aditya"
+      surname: "Garg"
+      thumbnailUrl: aditya_garg.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/adityagarg9"}
+    -
+      id: 31
+      name: "Ankur"
+      surname: "Edkie"
+      thumbnailUrl: ankur_edkie.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/ankuredkie"}
+    -
+      id: 32
+      name: "Anshuman"
+      surname: "Tiwari"
+      thumbnailUrl: anshuman_tiwari.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/anshu1638"}
+    -
+      id: 33
+      name: "Gaurav Singh"
+      surname: "Bhadoria"
+      thumbnailUrl: gaurav_singh_bhadoria.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/gaurav.bhadoria"}
+    -
+      id: 34
+      name: "Kaustubh"
+      surname: "Gururaj"
+      thumbnailUrl: kaustubh_gururaj.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kaustubh.gururaj"}
+    -
+      id: 35
+      name: "Kaustubh"
+      surname: "Tripathi"
+      thumbnailUrl: kaustubh_tripathi.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/kaustubh.tripathi.946"}
+    -
+      id: 36
+      name: "Kumar"
+      surname: "Ritwik"
+      thumbnailUrl: kumar_ritwik.jpg
+      team: true
+      social:
+        - {name: "facebook", link: "https://www.facebook.com/ritwik.mango"}
+    -
+      id: 37
+      name: "Sneha"
+      surname: "Roy"
+      thumbnailUrl: sneha_roy.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/sneha-roy-28a83043"}
+- title: "2009"
+  team:
+    -
+      id: 38
+      name: "Prerit"
+      surname: "Shrivastav"
+      thumbnailUrl: prerit_s.jpg
+      team: true
+- title: "2008"
+  team:
+    -
+      id: 39
+      name: "Abhishek"
+      surname: "Sasmal"
+      thumbnailUrl: abhishek_s.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/abhishek-sasmal-5b25208b"}
+    -
+      id: 40
+      name: "Aamir"
+      surname: "Ahmed"
+      thumbnailUrl: Amir.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ahmadaamir"}
+    -
+      id: 41
+      name: "Prithviraj"
+      surname: "Banerjee"
+      thumbnailUrl: pritviraj_b.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/prithvirajb"}
+    -
+      id: 42
+      name: "Hema"
+      surname: "Shweta"
+      team: true
+      thumbnailUrl: hema.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/hemakoppula"}
+    -
+      id: 43
+      name: "Tathagata"
+      surname: "Das"
+      team: true
+      thumbnailUrl: tathagata_das.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/tathadas"}
+    -
+      id: 44
+      name: "Tanmoy"
+      surname: "Banerjee"
+      team: true
+      thumbnailUrl: tanmoy_b.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/banerjeetanmoy"}
+- title: "2007"
+  team:
+    -
+      id: 45
+      name: "Sumandeep"
+      surname: "Banerjee"
+      thumbnailUrl: sumandeep_b.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/sumandeep-banerjee-1436a17"}
+    -
+      id: 46
+      name: "Chintan"
+      surname: "Thakkar"
+      thumbnailUrl: chintan_t.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/chintan-thakkar-021947a"}
+    -
+      id: 47
+      name: "Anant"
+      surname: "Choubey"
+      thumbnailUrl: anant_c.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/anant-choubey-ab18091"}
+    -
+      id: 48
+      name: "Sabyasachi"
+      surname: "Das"
+      thumbnailUrl: sabyasachi_d.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/sabyasachidas15"}
+    -
+      id: 49
+      name: "Vaibhav"
+      surname: "Aggarwal"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+- title: "2006"
+  team:
+    -
+      id: 50
+      name: "Puneet"
+      surname: "Kala"
+      thumbnailUrl: puneet_k.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/puneet-kala-bba8607"}
+    -
+      id: 51
+      name: "Aneesh"
+      surname: "Reddy"
+      team: true
+      thumbnailUrl: aneesh.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/aneesh-reddy-38b176b"}
+    -
+      id: 52
+      name: "Subhroz"
+      surname: "Gill"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+    -
+      id: 53
+      name: "Nitin"
+      surname: "Mohta"
+      team: true
+      thumbnailUrl: nithin_m.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/nitinmohta"}
+    -
+      id: 54
+      name: "Rahul"
+      surname: "Garg"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+    -
+      id: 55
+      name: "Pallavi"
+      surname: "Joshi"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+- title: "2005"
+  team:
+    -
+      id: 56
+      name: "Vivek"
+      surname: "Lath"
+      thumbnailUrl: vivek_l.jpg
+      team: true
+    -
+      id: 57
+      name: "Abhimanyu"
+      surname: "Raibhadur"
+      team: true
+      thumbnailUrl: abhimanyu-raib.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/abhimanyuraibahadur"}
+    -
+      id: 58
+      name: "Sophia"
+      surname: "Randhawa"
+      team: true
+      thumbnailUrl: sophia-r.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/sophiarandhawa"}
+- title: "2004"
+  team:
+    -
+      id: 59
+      name: "Vivek"
+      surname: "Mishra"
+      thumbnailUrl: vivek_m.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/misravivek"}
+    -
+      id: 60
+      name: "Sandeep"
+      surname: "Prabhakara"
+      thumbnailUrl: sandeep-prabhakara.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/sandeep-prabhakara-8640337"}
+    -
+      id: 61
+      name: "Dushyant"
+      surname: "Giri"
+      thumbnailUrl: dushyant.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/dushyantgiri"}
+    -
+      id: 62
+      name: "Alex"
+      surname: "Thomas"
+      thumbnailUrl: generic-profile.jpg
+      team: true
+- title: "2003"
+  team:
+    -
+      id: 63
+      name: "Bishwanath"
+      surname: "Dutta"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/bdonline"}
+    -
+      id: 64
+      name: "Aruleshan"
+      surname: "V"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+- title: "2002"
+  team:
+    -
+      id: 65
+      name: "Kunal"
+      surname: "Sinha"
+      thumbnailUrl: kunal_s.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/ksinha"}
+    -
+      id: 66
+      name: "Pallavi"
+      surname: "Payal"
+      thumbnailUrl: payal_p.jpg
+      team: true
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/payal-pallavi-b76a8426"}
+    -
+      id: 67
+      name: "Saurabh"
+      surname: "Prasad"
+      team: true
+      thumbnailUrl: generic-profile.jpg
+      social:
+        - {name: "linkedin", link: "https://www.linkedin.com/in/saurabhprasad81"}
