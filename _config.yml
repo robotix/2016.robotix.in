@@ -13,7 +13,7 @@ exclude: ['/scripts/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Technology Robotix Society, IIT Kharagpur"
 description: "Technology Robotix Society is an official society under the Technology Students' Gymkhana IIT Kharagpur."
-baseurl: "http://2016.robotix.in"
+baseurl: "https://2016.robotix.in"
 permalink: "/blog/:title/"
 collections:
   events:
